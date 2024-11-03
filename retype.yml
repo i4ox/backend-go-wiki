@@ -1,0 +1,19 @@
+---
+input: .
+output: .retype
+url: https://i4ox.github.io
+branding:
+  title: "Go Wiki"
+  label: Docs
+  logo: uploads/logo.svg
+favicon: uploads/logo.svg
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
+gravatar:
+  enabled: true
+meta:
+  title: " | Go Wiki"
+poweredByRetype: false
+footer:
+  copyright: "&copy; {{ year }} Все права принадлежат пользователю i4ox."
